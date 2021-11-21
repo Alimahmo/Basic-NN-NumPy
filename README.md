@@ -16,9 +16,7 @@ We give the program our inputs (which is usually historical data), and our targe
 
 </pre>
 **Building Blocks of a Machine Learning Algorithm**
-<pre>
 
-</pre>
 A. Data --> Historical Data
 
 B. Model --> E.g. Linear Regression
