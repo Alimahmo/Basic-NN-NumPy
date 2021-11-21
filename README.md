@@ -1,4 +1,3 @@
-<pre>
 # Basic-NN-NumPy
 
 Basic Neural Network example based on Simple Linear Regression (Supervised Machine Learning)
@@ -11,12 +10,15 @@ Basic Neural Network example based on Simple Linear Regression (Supervised Machi
 We give the program our inputs (which is usually historical data), and our targets (the answers we aim at), and we expect from the program to give us the underlying rules. We will then use this model on new data.
 
 ![image](https://user-images.githubusercontent.com/80431527/142757454-6bcafa9c-2858-4241-a594-f7d6a34ce8d6.png)
+<pre>
 
-/
-/
-/
+
+
+</pre>
 **Building Blocks of a Machine Learning Algorithm**
+<pre>
 
+</pre>
 A. Data --> Historical Data
 
 B. Model --> E.g. Linear Regression
@@ -24,10 +26,10 @@ B. Model --> E.g. Linear Regression
 C. Objective Function --> "Loss Functions" or "Reward Functions"
 
 D. Optimization Algorithm --> By varying the Model's parameters, the algorithm tries to find the minimum of the OF: Gradient Descent (SGD)
+<pre>
 
-/
-/
-/
+
+</pre>
 **Elements of the Model in Supervised ML:**
 1. Inputs (given by us)
 2. Weights (expected from machine)
@@ -35,4 +37,4 @@ D. Optimization Algorithm --> By varying the Model's parameters, the algorithm t
 4. Outputs (expected from machine)
 5. Targets (given by us)
 
-</pre>
+
