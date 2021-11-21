@@ -1,3 +1,4 @@
+<pre>
 # Basic-NN-NumPy
 
 Basic Neural Network example based on Simple Linear Regression (Supervised Machine Learning)
@@ -33,3 +34,5 @@ D. Optimization Algorithm --> By varying the Model's parameters, the algorithm t
 3. Biases (expected from machine)
 4. Outputs (expected from machine)
 5. Targets (given by us)
+
+</pre>
