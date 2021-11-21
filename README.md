@@ -11,9 +11,9 @@ We give the program our inputs (which is usually historical data), and our targe
 
 ![image](https://user-images.githubusercontent.com/80431527/142757454-6bcafa9c-2858-4241-a594-f7d6a34ce8d6.png)
 
-
-
-
+/
+/
+/
 **Building Blocks of a Machine Learning Algorithm**
 
 A. Data --> Historical Data
@@ -24,9 +24,9 @@ C. Objective Function --> "Loss Functions" or "Reward Functions"
 
 D. Optimization Algorithm --> By varying the Model's parameters, the algorithm tries to find the minimum of the OF: Gradient Descent (SGD)
 
-
-
-
+/
+/
+/
 **Elements of the Model in Supervised ML:**
 1. Inputs (given by us)
 2. Weights (expected from machine)
